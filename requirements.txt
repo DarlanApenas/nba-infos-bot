@@ -1,0 +1,6 @@
+discord.py
+nba_api
+python-dotenv
+pillow
+pandas
+requests
