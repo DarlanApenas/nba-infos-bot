@@ -2,5 +2,5 @@ python-dotenv
 discord.py
 requests
 nba_api
-pillow
 pandas
+pillow

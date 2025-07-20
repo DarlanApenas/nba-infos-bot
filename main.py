@@ -1,5 +1,5 @@
 from nba_api.stats.endpoints import playercareerstats, commonplayerinfo
-from nba_api.stats.static import players, teams
+from nba_api.stats.static import players
 from discord.ext import commands
 from dotenv import load_dotenv
 from discord import Intents
@@ -31,7 +31,6 @@ def peso_em_kg(peso_str):
         return round(kg, 2)
     except ValueError:
         return "Formato inválido. Forneça o peso em libras como número. Ex: '220'"
-
 
 @bot.event
 async def on_ready():
