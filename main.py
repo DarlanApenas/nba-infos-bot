@@ -35,6 +35,7 @@ def peso_em_kg(peso_str):
 
 @bot.event
 async def on_ready():
+    print('-=' * 20 + '-')
     print(f'Running {bot.user.name} - {bot.user.id}')
     print('-=' * 20 + '-')
     

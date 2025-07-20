@@ -1,6 +1,6 @@
-discord.py
-nba_api
 python-dotenv
+discord.py
+requests
+nba_api
 pillow
 pandas
-requests
