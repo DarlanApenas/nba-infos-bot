@@ -2,7 +2,8 @@
 
 This is a Python-based Discord bot that returns detailed information about NBA players using the `nba_api`.
 
-  <img width="330" height="415" alt="image" src="https://github.com/user-attachments/assets/0ee3b667-535f-4ea4-ac71-bfa8763349d5" />  
+  <img width="330" height="415" alt="image" src="https://github.com/user-attachments/assets/c2cf340e-2cfe-4116-b966-94b800811379" />  
+
 
 ## Features
 
